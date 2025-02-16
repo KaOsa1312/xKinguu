@@ -1,5 +1,4 @@
-- 👋 Yo Im KaOsa
-- 👀 Im begginer front-end developer
+easy sign up html css
 
 <!---
 xKinguu/xKinguu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
